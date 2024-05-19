@@ -1,0 +1,116 @@
+[
+	{
+		"id": 1,
+		"type": "rating",
+		"question": "Seberapa sering Anda kesulitan menyelesaikan detail akhir dari sebuah proyek, setelah bagian yang menantang selesai dikerjakan?",
+		"category": "primary"
+	},
+	{
+		"id": 2,
+		"type": "rating",
+		"question": "Seberapa sering Anda kesulitan mengatur sesuatu saat harus mengerjakan tugas yang membutuhkan organisasi?",
+		"category": "primary"
+	},
+	{
+		"id": 3,
+		"type": "rating",
+		"question": "Seberapa sering Anda bermasalah mengingat janji atau kewajiban?",
+		"category": "primary"
+	},
+	{
+		"id": 4,
+		"type": "rating",
+		"question": "Ketika Anda memiliki tugas yang membutuhkan banyak pemikiran, seberapa sering Anda menghindari atau menunda untuk memulai?",
+		"category": "primary"
+	},
+	{
+		"id": 5,
+		"type": "rating",
+		"question": "Seberapa sering Anda gelisah atau menggerak-gerakkan tangan atau kaki saat harus duduk dalam waktu yang lama?",
+		"category": "primary"
+	},
+	{
+		"id": 6,
+		"type": "rating",
+		"question": "Seberapa sering Anda merasa terlalu aktif dan terdorong untuk melakukan sesuatu, seperti sedang digerakkan oleh mesin?",
+		"category": "primary"
+	},
+	{
+		"id": 7,
+		"type": "rating",
+		"question": "Seberapa sering Anda melakukan kesalahan ceroboh saat harus mengerjakan proyek yang membosankan atau sulit?",
+		"category": "secondary"
+	},
+	{
+		"id": 8,
+		"type": "rating",
+		"question": "Seberapa sering Anda kesulitan memusatkan perhatian saat melakukan pekerjaan yang membosankan atau berulang?",
+		"category": "secondary"
+	},
+	{
+		"id": 9,
+		"type": "rating",
+		"question": "Seberapa sering Anda kesulitan berkonsentrasi pada apa yang orang lain katakan kepada Anda, meskipun mereka berbicara langsung kepada Anda?",
+		"category": "secondary"
+	},
+	{
+		"id": 10,
+		"type": "rating",
+		"question": "Seberapa sering Anda salah meletakkan atau kesulitan menemukan barang di rumah atau di tempat kerja?",
+		"category": "secondary"
+	},
+	{
+		"id": 11,
+		"type": "rating",
+		"question": "Seberapa sering Anda terdistraksi oleh aktivitas atau kebisingan di sekitar Anda?",
+		"category": "secondary"
+	},
+	{
+		"id": 12,
+		"type": "rating",
+		"question": "Seberapa sering Anda meninggalkan tempat duduk dalam rapat atau situasi lain di mana Anda diharapkan untuk tetap duduk?",
+		"category": "secondary"
+	},
+	{
+		"id": 13,
+		"type": "rating",
+		"question": "Seberapa sering Anda merasa gelisah atau tidak bisa diam?",
+		"category": "secondary"
+	},
+	{
+		"id": 14,
+		"type": "rating",
+		"question": "Seberapa sering Anda kesulitan bersantai dan melepas penat ketika memiliki waktu luang?",
+		"category": "secondary"
+	},
+	{
+		"id": 15,
+		"type": "rating",
+		"question": "Seberapa sering Anda mendapati diri Anda terlalu banyak bicara saat berada dalam situasi sosial?",
+		"category": "secondary"
+	},
+	{
+		"id": 16,
+		"type": "rating",
+		"question": "Seberapa sering Anda mendapati diri Anda menyelesaikan kalimat orang yang Anda ajak bicara, sebelum mereka bisa menyelesaikannya sendiri?",
+		"category": "secondary"
+	},
+	{
+		"id": 17,
+		"type": "rating",
+		"question": "Seberapa sering Anda kesulitan menunggu giliran dalam situasi di mana diperlukan untuk bergantian?",
+		"category": "secondary"
+	},
+	{
+		"id": 18,
+		"type": "rating",
+		"question": "Seberapa sering Anda menginterupsi orang lain saat mereka sedang sibuk?",
+		"category": "secondary"
+	},
+	{
+		"id": 19,
+		"type": "boolean",
+		"question": "Apakah semua hal tadi terjadi sejak sebelum Anda berusia 12 tahun?",
+		"category": "confirmation"
+	}
+]

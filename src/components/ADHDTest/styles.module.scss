@@ -1,0 +1,54 @@
+.ADHDTest {
+
+	@apply w-full h-full overflow-hidden;
+	@apply flex flex-col gap-5;
+	@apply p-5;
+
+	.ProgressBar {
+		@apply shrink-0 grow-0;
+		@apply flex flex-row gap-[2px];
+
+		.Cell {
+			@apply grow shrink h-2;
+			@apply bg-stone-100;
+
+			&.Done {
+				@apply bg-emerald-500;
+			}
+
+			&.Active {
+				@apply bg-indigo-500;
+			}
+		} // .Cell
+
+	} // .ProgressBar
+	
+	.TestArea {
+		@apply shrink grow min-h-0 overflow-y-auto overflow-x-hidden;	
+		@apply flex flex-col gap-5;
+
+		.Question {
+
+			.QuestionNumber {
+				@apply font-semibold text-indigo-600;
+			}
+
+			.QuestionText {
+				@apply mt-2;
+				@apply text-lg;
+			}
+
+		}
+
+		.Options {
+			@apply flex flex-col items-stretch gap-2;
+		}
+
+	} // .TestArea
+	
+	.Actions {
+		@apply shrink-0 grow-0;
+		@apply flex justify-between items-center;
+	} // .Actions
+
+} // .ADHDTest

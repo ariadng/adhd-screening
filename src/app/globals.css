@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --color-primary: rgb(79 70 229);
+  --color-primary-light: rgb(217, 215, 253);
+}
+
+html, body {
+  @apply w-[100svw] h-[100svh] overflow-hidden;
+}
